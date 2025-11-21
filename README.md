@@ -1,5 +1,6 @@
 # Phys431GP
 Galactic Astrophysics PHYS 431 Final Group Project
+
 Jake Larimer, Eva Mankos, Naomi Hagan
 
 Initial Project Idea:
