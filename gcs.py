@@ -1,4 +1,5 @@
 # Data from Harris, Harris and Alessi (2013)
+# https://physics.mcmaster.ca/~harris/GCS_table.txt
 # test code to recreate Figure 1. 
 
 # import pandas  and numpy for data analysis
@@ -29,4 +30,5 @@ plt.hist(df['D_Mpc'], bins=dist_bins)
 plt.title("GC Systems [Figure 1]")
 plt.ylabel("Number of Galaxies")
 plt.xlabel("Distance (Mpc)")
+
 plt.show()
