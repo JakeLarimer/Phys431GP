@@ -19,5 +19,5 @@ class GP_DATA:
         # ensure all distances are numeric
         self.__GCS["D_Mpc"] = pd.to_numeric(self.__GCS["D_Mpc"], errors="coerce")
         # Returns pandas dataframe of GCSCAT data
-        return self.__GCSCAT
+        return self.__GCS
         
